@@ -11,4 +11,4 @@ Diseñé y ejecuté casos de prueba según requisito.
 
 ## Desafíos resueltos
 Screenshots
-<img src="https://raw.githubusercontent.com/mouredev/Hello-Python/main/Images/header.jpg" style="height: 60%; width:60%;"/>
+<img src="https://github.com/jgera-gsuarez/Proyecto-API-App-Entrega-de-Alimentos/PostmanAPI.png" style="height: 60%; width:60%;"/>
